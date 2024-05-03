@@ -45,6 +45,10 @@ Mastodon.py==1.5.1
 # homeassistant.components.tensorflow
 Pillow==10.0.0
 
+# homeassistant.components.jablotron_cloud
+jablotronpy==0.4.1
+
+
 # homeassistant.components.plex
 PlexAPI==4.13.2
 
